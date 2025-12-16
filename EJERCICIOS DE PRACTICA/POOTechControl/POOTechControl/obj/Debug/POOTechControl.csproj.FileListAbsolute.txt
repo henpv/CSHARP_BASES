@@ -1,0 +1,8 @@
+C:\Users\PC\Downloads\PRUEBAS\POOTechControl\POOTechControl\bin\Debug\POOTechControl.exe.config
+C:\Users\PC\Downloads\PRUEBAS\POOTechControl\POOTechControl\bin\Debug\POOTechControl.exe
+C:\Users\PC\Downloads\PRUEBAS\POOTechControl\POOTechControl\bin\Debug\POOTechControl.pdb
+C:\Users\PC\Downloads\PRUEBAS\POOTechControl\POOTechControl\obj\Debug\POOTechControl.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\PRUEBAS\POOTechControl\POOTechControl\obj\Debug\POOTechControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\PRUEBAS\POOTechControl\POOTechControl\obj\Debug\POOTechControl.exe
+C:\Users\PC\Downloads\PRUEBAS\POOTechControl\POOTechControl\obj\Debug\POOTechControl.pdb
+C:\Users\PC\Downloads\PRUEBAS\POOTechControl\POOTechControl\obj\Debug\POOTechControl.exe.config

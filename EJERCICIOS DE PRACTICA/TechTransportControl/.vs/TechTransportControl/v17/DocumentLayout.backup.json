@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|c:\\users\\pc\\downloads\\ejercicios c#\\techtransportcontrol\\techtransportcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|solutionrelative:techtransportcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|c:\\users\\pc\\downloads\\ejercicios c#\\techtransportcontrol\\techtransportcontrol\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|solutionrelative:techtransportcontrol\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|c:\\users\\pc\\downloads\\ejercicios c#\\techtransportcontrol\\techtransportcontrol\\repositorioenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|solutionrelative:techtransportcontrol\\repositorioenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|c:\\users\\pc\\downloads\\ejercicios c#\\techtransportcontrol\\techtransportcontrol\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|solutionrelative:techtransportcontrol\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|c:\\users\\pc\\downloads\\ejercicios c#\\techtransportcontrol\\techtransportcontrol\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|solutionrelative:techtransportcontrol\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|c:\\users\\pc\\downloads\\ejercicios c#\\techtransportcontrol\\techtransportcontrol\\iidentificable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|solutionrelative:techtransportcontrol\\iidentificable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|c:\\users\\pc\\downloads\\ejercicios c#\\techtransportcontrol\\techtransportcontrol\\inombrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|solutionrelative:techtransportcontrol\\inombrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|c:\\users\\pc\\downloads\\ejercicios c#\\techtransportcontrol\\techtransportcontrol\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|solutionrelative:techtransportcontrol\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|c:\\users\\pc\\downloads\\ejercicios c#\\techtransportcontrol\\techtransportcontrol\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|solutionrelative:techtransportcontrol\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|c:\\users\\pc\\downloads\\ejercicios c#\\techtransportcontrol\\techtransportcontrol\\vehiculogasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|solutionrelative:techtransportcontrol\\vehiculogasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|c:\\users\\pc\\downloads\\ejercicios c#\\techtransportcontrol\\techtransportcontrol\\condutorfijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|solutionrelative:techtransportcontrol\\condutorfijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|c:\\users\\pc\\downloads\\ejercicios c#\\techtransportcontrol\\techtransportcontrol\\conductorporviaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|solutionrelative:techtransportcontrol\\conductorporviaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|c:\\users\\pc\\downloads\\ejercicios c#\\techtransportcontrol\\techtransportcontrol\\vehiculoelectrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CE1AE-207A-4DE3-B56F-F5AF099D18D1}|TechTransportControl\\TechTransportControl.csproj|solutionrelative:techtransportcontrol\\vehiculoelectrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\Program.cs",
+              "RelativeDocumentMoniker": "TechTransportControl\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\Program.cs",
+              "RelativeToolTip": "TechTransportControl\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwBoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:46:22.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INombrable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\INombrable.cs",
+              "RelativeDocumentMoniker": "TechTransportControl\\INombrable.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\INombrable.cs",
+              "RelativeToolTip": "TechTransportControl\\INombrable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T19:29:24.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICalculable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\ICalculable.cs",
+              "RelativeDocumentMoniker": "TechTransportControl\\ICalculable.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\ICalculable.cs",
+              "RelativeToolTip": "TechTransportControl\\ICalculable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T19:31:03.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IIdentificable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\IIdentificable.cs",
+              "RelativeDocumentMoniker": "TechTransportControl\\IIdentificable.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\IIdentificable.cs",
+              "RelativeToolTip": "TechTransportControl\\IIdentificable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T19:28:29.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "TechTransportControl\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\IRepositorio.cs",
+              "RelativeToolTip": "TechTransportControl\\IRepositorio.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T02:04:58.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositorioEnMemoria.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\RepositorioEnMemoria.cs",
+              "RelativeDocumentMoniker": "TechTransportControl\\RepositorioEnMemoria.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\RepositorioEnMemoria.cs",
+              "RelativeToolTip": "TechTransportControl\\RepositorioEnMemoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T02:15:30.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "TechTransportControl\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\Vehiculo.cs",
+              "RelativeToolTip": "TechTransportControl\\Vehiculo.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T19:43:11.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VehiculoGasolina.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\VehiculoGasolina.cs",
+              "RelativeDocumentMoniker": "TechTransportControl\\VehiculoGasolina.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\VehiculoGasolina.cs",
+              "RelativeToolTip": "TechTransportControl\\VehiculoGasolina.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:04:29.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\Utilidades.cs",
+              "RelativeDocumentMoniker": "TechTransportControl\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\Utilidades.cs",
+              "RelativeToolTip": "TechTransportControl\\Utilidades.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T02:53:28.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conductor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\Conductor.cs",
+              "RelativeDocumentMoniker": "TechTransportControl\\Conductor.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\Conductor.cs",
+              "RelativeToolTip": "TechTransportControl\\Conductor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T00:37:43.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConductorPorViaje.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\ConductorPorViaje.cs",
+              "RelativeDocumentMoniker": "TechTransportControl\\ConductorPorViaje.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\ConductorPorViaje.cs",
+              "RelativeToolTip": "TechTransportControl\\ConductorPorViaje.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T00:53:24.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CondutorFijo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\CondutorFijo.cs",
+              "RelativeDocumentMoniker": "TechTransportControl\\CondutorFijo.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\CondutorFijo.cs",
+              "RelativeToolTip": "TechTransportControl\\CondutorFijo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T00:53:07.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehiculoElectrico.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\VehiculoElectrico.cs",
+              "RelativeDocumentMoniker": "TechTransportControl\\VehiculoElectrico.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\EJERCICIOS C#\\TechTransportControl\\TechTransportControl\\VehiculoElectrico.cs",
+              "RelativeToolTip": "TechTransportControl\\VehiculoElectrico.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T23:39:18.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

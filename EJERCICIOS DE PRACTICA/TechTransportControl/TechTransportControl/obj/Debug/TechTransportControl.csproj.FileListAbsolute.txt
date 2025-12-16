@@ -1,0 +1,8 @@
+C:\Users\PC\Downloads\EJERCICIOS C#\TechTransportControl\TechTransportControl\bin\Debug\TechTransportControl.exe.config
+C:\Users\PC\Downloads\EJERCICIOS C#\TechTransportControl\TechTransportControl\bin\Debug\TechTransportControl.exe
+C:\Users\PC\Downloads\EJERCICIOS C#\TechTransportControl\TechTransportControl\bin\Debug\TechTransportControl.pdb
+C:\Users\PC\Downloads\EJERCICIOS C#\TechTransportControl\TechTransportControl\obj\Debug\TechTransportControl.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\EJERCICIOS C#\TechTransportControl\TechTransportControl\obj\Debug\TechTransportControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\EJERCICIOS C#\TechTransportControl\TechTransportControl\obj\Debug\TechTransportControl.exe
+C:\Users\PC\Downloads\EJERCICIOS C#\TechTransportControl\TechTransportControl\obj\Debug\TechTransportControl.pdb
+C:\Users\PC\Downloads\EJERCICIOS C#\TechTransportControl\TechTransportControl\obj\Debug\TechTransportControl.exe.config

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|c:\\users\\pc\\downloads\\pruebas\\pootechcontrol\\pootechcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|solutionrelative:pootechcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|c:\\users\\pc\\downloads\\pruebas\\pootechcontrol\\pootechcontrol\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|solutionrelative:pootechcontrol\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|c:\\users\\pc\\downloads\\pruebas\\pootechcontrol\\pootechcontrol\\repositorioenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|solutionrelative:pootechcontrol\\repositorioenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|c:\\users\\pc\\downloads\\pruebas\\pootechcontrol\\pootechcontrol\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|solutionrelative:pootechcontrol\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|c:\\users\\pc\\downloads\\pruebas\\pootechcontrol\\pootechcontrol\\inombrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|solutionrelative:pootechcontrol\\inombrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|c:\\users\\pc\\downloads\\pruebas\\pootechcontrol\\pootechcontrol\\iidentificable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|solutionrelative:pootechcontrol\\iidentificable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|c:\\users\\pc\\downloads\\pruebas\\pootechcontrol\\pootechcontrol\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|solutionrelative:pootechcontrol\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|c:\\users\\pc\\downloads\\pruebas\\pootechcontrol\\pootechcontrol\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|solutionrelative:pootechcontrol\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|c:\\users\\pc\\downloads\\pruebas\\pootechcontrol\\pootechcontrol\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|solutionrelative:pootechcontrol\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|c:\\users\\pc\\downloads\\pruebas\\pootechcontrol\\pootechcontrol\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCFF851-9049-4108-B5BF-814452E8B406}|POOTechControl\\POOTechControl.csproj|solutionrelative:pootechcontrol\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\Program.cs",
+              "RelativeDocumentMoniker": "POOTechControl\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\Program.cs",
+              "RelativeToolTip": "POOTechControl\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwD0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:11:21.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\Utilidades.cs",
+              "RelativeDocumentMoniker": "POOTechControl\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\Utilidades.cs",
+              "RelativeToolTip": "POOTechControl\\Utilidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:11:15.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositorioEnMemoria.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\RepositorioEnMemoria.cs",
+              "RelativeDocumentMoniker": "POOTechControl\\RepositorioEnMemoria.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\RepositorioEnMemoria.cs",
+              "RelativeToolTip": "POOTechControl\\RepositorioEnMemoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:11:14.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "POOTechControl\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\IRepositorio.cs",
+              "RelativeToolTip": "POOTechControl\\IRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:11:10.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INombrable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\INombrable.cs",
+              "RelativeDocumentMoniker": "POOTechControl\\INombrable.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\INombrable.cs",
+              "RelativeToolTip": "POOTechControl\\INombrable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:11:08.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IIdentificable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\IIdentificable.cs",
+              "RelativeDocumentMoniker": "POOTechControl\\IIdentificable.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\IIdentificable.cs",
+              "RelativeToolTip": "POOTechControl\\IIdentificable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:11:06.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICalculable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\ICalculable.cs",
+              "RelativeDocumentMoniker": "POOTechControl\\ICalculable.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\ICalculable.cs",
+              "RelativeToolTip": "POOTechControl\\ICalculable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:11:05.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadoPorHoras.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\EmpleadoPorHoras.cs",
+              "RelativeDocumentMoniker": "POOTechControl\\EmpleadoPorHoras.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\EmpleadoPorHoras.cs",
+              "RelativeToolTip": "POOTechControl\\EmpleadoPorHoras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:11:03.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\Empleado.cs",
+              "RelativeDocumentMoniker": "POOTechControl\\Empleado.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\Empleado.cs",
+              "RelativeToolTip": "POOTechControl\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:11:01.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\Producto.cs",
+              "RelativeDocumentMoniker": "POOTechControl\\Producto.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\PRUEBAS\\POOTechControl\\POOTechControl\\Producto.cs",
+              "RelativeToolTip": "POOTechControl\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:10:56.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
