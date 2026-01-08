@@ -55,7 +55,10 @@ namespace SintaxisBasica
             // WriteLine es un método de la clase Console
             // que imprime texto en la consola.
             Console.WriteLine("Hello World");
-
+            //INTERPOLACIÓN DE STRING
+            int anios = 36;
+            Console.WriteLine($"Yo tengo una edad de {anios}");
+            Console.WriteLine("Yo tengo una edad de {0}",anios);
 
             // --------------------------------------------
             // TIPOS DE DATOS

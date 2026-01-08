@@ -1,8 +1,0 @@
-C:\Users\PC\Downloads\EJERCICIOS C#\CSHARP_BASICOS\1.Sintaxis Básica\SintaxisBasica\SintaxisBasica\bin\Debug\SintaxisBasica.exe.config
-C:\Users\PC\Downloads\EJERCICIOS C#\CSHARP_BASICOS\1.Sintaxis Básica\SintaxisBasica\SintaxisBasica\bin\Debug\SintaxisBasica.exe
-C:\Users\PC\Downloads\EJERCICIOS C#\CSHARP_BASICOS\1.Sintaxis Básica\SintaxisBasica\SintaxisBasica\bin\Debug\SintaxisBasica.pdb
-C:\Users\PC\Downloads\EJERCICIOS C#\CSHARP_BASICOS\1.Sintaxis Básica\SintaxisBasica\SintaxisBasica\obj\Debug\SintaxisBasica.csproj.AssemblyReference.cache
-C:\Users\PC\Downloads\EJERCICIOS C#\CSHARP_BASICOS\1.Sintaxis Básica\SintaxisBasica\SintaxisBasica\obj\Debug\SintaxisBasica.csproj.CoreCompileInputs.cache
-C:\Users\PC\Downloads\EJERCICIOS C#\CSHARP_BASICOS\1.Sintaxis Básica\SintaxisBasica\SintaxisBasica\obj\Debug\SintaxisBasica.exe
-C:\Users\PC\Downloads\EJERCICIOS C#\CSHARP_BASICOS\1.Sintaxis Básica\SintaxisBasica\SintaxisBasica\obj\Debug\SintaxisBasica.pdb
-C:\Users\PC\Downloads\EJERCICIOS C#\CSHARP_BASICOS\1.Sintaxis Básica\SintaxisBasica\SintaxisBasica\obj\Debug\SintaxisBasica.exe.config
